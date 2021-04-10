@@ -9,9 +9,9 @@ To try the app, drop me a mail on devashishmgopalani@gmail.com<br />
 A few screenshots of the application are present below:<br />
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/deva-gopalani/PassKeeper-AndroidApplication/master/screenshots-1.png" width="750" height="500"><br /><br />
+<img src="https://raw.githubusercontent.com/deva-gopalani/PassKeeper-AndroidApplication/master/screenshots-1.png" width="850" height="500"><br /><br />
 
-<img src="https://raw.githubusercontent.com/deva-gopalani/PassKeeper-AndroidApplication/master/screenshots-2.png" width="750" height="500"><br /><br />
+<img src="https://raw.githubusercontent.com/deva-gopalani/PassKeeper-AndroidApplication/master/screenshots-2.png" width="850" height="500"><br /><br />
 
-<img src="https://raw.githubusercontent.com/deva-gopalani/PassKeeper-AndroidApplication/master/screenshots-3.png" width="750" height="500"><br /><br />
+<img src="https://raw.githubusercontent.com/deva-gopalani/PassKeeper-AndroidApplication/master/screenshots-3.png" width="850" height="500"><br /><br />
 </div>
